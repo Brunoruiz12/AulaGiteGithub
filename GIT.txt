@@ -1,1 +1,2 @@
 inicio da uc7 versionamento
+Continuação da aula git
